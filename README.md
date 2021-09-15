@@ -16,7 +16,7 @@ When you clicked in the discussion name, it forwarded to the discussion page! Wi
 
 
 
-[Screen Shot 2021-09-16 at 00 07 45](https://user-images.githubusercontent.com/69332376/133478460-2b43a6ea-8798-4305-9145-771be5fc76c5.png)
+![Screen Shot 2021-09-16 at 00 07 45](https://user-images.githubusercontent.com/69332376/133478460-2b43a6ea-8798-4305-9145-771be5fc76c5.png)
 Sorry for my bad at front end, i will try my best to improve
 
 below i made a comment box in order to post your opinion 
