@@ -29,6 +29,7 @@ And then, your comment go here
 ![Screen Shot 2021-09-16 at 00 19 20](https://user-images.githubusercontent.com/69332376/133479858-792bd568-00ef-4e2a-bfcd-83c1368dffef.png)
 
 once again, I'm sorry for my bad at the template,  i don't know how to move the comment box to go above below the discussion box,
-i will very happy if SO can help me to improve my template to make it better
+i will very happy if SO can help me to improve my template to make it better.
+My email : anht13122001@gmail.com
 
 
